@@ -1,10 +1,10 @@
 [package]
 name = "clamhydradragonav"
-version = "0.0.0"
-description = "A Tauri App"
-authors = ["you"]
-license = ""
-repository = ""
+version = "0.0.1"
+description = "ClamHydraDragonAV"
+authors = ["Emirhan Ucan"]
+license = "GPL-2.0"
+repository = "https://github.com/HydraDragonAntivirus/ClamHydraDragonAV"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
